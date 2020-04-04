@@ -1,0 +1,13 @@
+
+
+composer require laravel/ui:^1.0 --dev 
+
+php artisan ui bootstrap
+
+npm install
+
+php artisan make:livewire hello-world
+
+php artisan make:livewire show-posts
+
+php artisan make:livewire delete-post
